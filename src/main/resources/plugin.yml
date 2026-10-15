@@ -1,0 +1,9 @@
+name: Credits
+version: '0.0.1'
+main: nl.ashlyn.credits.Main
+api-version: '1.21'
+depend: [ Core, ProtocolLib ]
+author: ntnt
+commands:
+  credits:
+    usage: /credits
