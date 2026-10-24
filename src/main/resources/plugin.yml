@@ -2,8 +2,8 @@ name: Credits
 version: '${project.version}'
 main: nl.ashlyn.credits.Main
 api-version: '1.21'
-depend: [ Core, ProtocolLib ]
+depend: [ Core, ProtocolLib, LuckPerms ]
 author: ntnt
 commands:
   credits:
-    usage: /credits
+    usage: /credits [player|unmute]

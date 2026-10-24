@@ -6,7 +6,7 @@
 
     <groupId>nl.ashlyn</groupId>
     <artifactId>Credits</artifactId>
-    <version>0.0.2</version>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
 
     <name>Credits</name>
@@ -83,6 +83,12 @@
             <groupId>net.dmulloy2</groupId>
             <artifactId>ProtocolLib</artifactId>
             <version>5.4.0</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>net.luckperms</groupId>
+            <artifactId>api</artifactId>
+            <version>5.4</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
