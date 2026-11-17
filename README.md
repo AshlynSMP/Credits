@@ -8,7 +8,7 @@
 
 ## Description
 
-Credits is a comprehensive Spigot/Paper plugin designed specifically for the AshlynSMP server. It sends a special packet to the client to display the end credits.
+Credits is a comprehensive Paper plugin designed specifically for the AshlynSMP server. It uses the Paper API to show the end credits to players.
 
 ## Building from Source
 
@@ -32,7 +32,7 @@ mvn clean package
 ## Requirements
 
 - **Minecraft Version**: 1.21+
-- **Server Software**: Spigot/Paper 1.21+
+- **Server Software**: Paper 1.21+
 - **Java Version**: 21
 
 ## License
